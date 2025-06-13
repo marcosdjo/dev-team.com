@@ -32,7 +32,7 @@ header{
     padding-left: 30px;
 }
 .nivigation a:hover{
-    color: rgba(255, 0, 0, 0.688);
+    color:  rgb(0, 162, 255);
 }
 section{
     padding: 100px 200px;
@@ -131,6 +131,10 @@ section{
     color:rgb(0, 162, 255) ;
     font-size:1.2em ;
     font-weight: 700;
+}
+.info a{
+    text-decoration: none;
+    color: rgb(0, 162, 255);
 }
 .projects{
     background-color: rgb(1, 1, 30);
